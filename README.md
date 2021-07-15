@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SYFLUYI
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m @Louise Lu
+- 👀 I’m passionated about CS and has the fortune to study an advanced degree on Computer Science
+- 🌱 I’m currently working on new data initiatives
 - 💞️ I’m looking to collaborate on ML project
 - 📫 How to reach me by tag me
 
