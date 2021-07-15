@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Louise Lu
+- 👋 Hi, I’m Yi Lu
 - 👀 I’m passionated about CS and has the fortune to study an advanced degree on Computer Science
 - 🌱 I’m currently working on new data initiatives
 - 💞️ I’m looking to collaborate on ML project
