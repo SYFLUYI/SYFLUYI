@@ -13,4 +13,4 @@ a reproducible lab for silent data loss at the Kafka retention boundary:
 dirty synthetic FHIR data, DLQ + replay, lag-to-retention alerting, and
 end-to-end reconciliation that quantified 2,613 lost records in one drill.
 
-📍 SF Bay Area · Columbia MBA · CS
+📍 SF Bay Area · Columbia Master · CS · 8 YOE
